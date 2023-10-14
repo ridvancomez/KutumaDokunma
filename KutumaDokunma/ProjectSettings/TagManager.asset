@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OrtaCephe
+  - Player1
+  - Player2
+  - FxTemporaire
+  - Player1Boxes
+  - Player2Boxes
+  - Bullet
+  - OlusacakNokta1
+  - OlusacakNokta2
+  - OyuncuBekleniyor
+  - Oyuncu1Isim
+  - Oyuncu2Isim
+  - PowerBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,131 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="22"
+7-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+10-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+11-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+12
+13    <uses-feature android:glEsVersion="0x00030000" />
+13-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+13-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+14    <uses-feature
+14-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-91
+15        android:name="android.hardware.vulkan.version"
+15-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-63
+16        android:required="false" />
+16-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:64-88
+17    <uses-feature
+17-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-88
+18        android:name="android.hardware.touchscreen"
+18-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-60
+19        android:required="false" />
+19-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:61-85
+20    <uses-feature
+20-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-99
+21        android:name="android.hardware.touchscreen.multitouch"
+21-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-71
+22        android:required="false" />
+22-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:72-96
+23    <uses-feature
+23-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-108
+24        android:name="android.hardware.touchscreen.multitouch.distinct"
+24-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-80
+25        android:required="false" />
+25-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:81-105
+26
+27    <application android:extractNativeLibs="true" >
+27-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-25:17
+27-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+28        <meta-data
+28-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-69
+29            android:name="unity.splash-mode"
+29-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-48
+30            android:value="0" />
+30-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:49-66
+31        <meta-data
+31-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-74
+32            android:name="unity.splash-enable"
+32-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-50
+33            android:value="True" />
+33-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:51-71
+34        <meta-data
+34-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-78
+35            android:name="unity.launch-fullscreen"
+35-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-54
+36            android:value="True" />
+36-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:55-75
+37        <meta-data
+37-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+38            android:name="unity.allow-resizable-window"
+38-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-59
+39            android:value="False" />
+39-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:60-81
+40        <meta-data
+40-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-81
+41            android:name="notch.config"
+41-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-43
+42            android:value="portrait|landscape" />
+42-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:44-78
+43        <meta-data
+43-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+44            android:name="unity.auto-report-fully-drawn"
+44-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-60
+45            android:value="true" />
+45-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:61-81
+46
+47        <activity
+47-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-24:16
+48            android:name="com.unity3d.player.UnityPlayerActivity"
+48-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:15-68
+49            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+49-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:181-362
+50            android:exported="true"
+50-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:434-457
+51            android:hardwareAccelerated="false"
+51-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:398-433
+52            android:launchMode="singleTask"
+52-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:149-180
+53            android:resizeableActivity="false"
+53-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:363-397
+54            android:screenOrientation="landscape"
+54-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:111-148
+55            android:theme="@style/UnityThemeSelector" >
+55-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:69-110
+56            <intent-filter>
+56-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:7-21:23
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-69
+57-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:19-66
+58
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-61
+59-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:17-58
+60            </intent-filter>
+61
+62            <meta-data
+62-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-82
+63                android:name="unityplayer.UnityActivity"
+63-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:18-58
+64                android:value="true" />
+64-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:59-79
+65            <meta-data
+65-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-70
+66                android:name="notch_support"
+66-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:18-46
+67                android:value="true" />
+67-->C:\Users\rdvnc\Desktop\Projeler\KutumaDokunma\KutumaDokunma\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:47-67
+68        </activity>
+69    </application>
+70
+71</manifest>
